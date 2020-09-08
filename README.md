@@ -1,3 +1,2 @@
 # my-first-repo
-(img/me.png)
-<img src="img/me.png width='100'>
+Hier volgt een link naar de [website van zuyd.nl](https://zuyd.nl), ga snel kijken!
